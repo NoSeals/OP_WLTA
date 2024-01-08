@@ -1,6 +1,6 @@
-# Optimism Superchain: Governance On The Rise
+# Governance On The Rise
 
-Contribution to the [We Love the Art](https://welovetheart.optimism.io/) contest in the category generative art. An on-chain art contest with 1,200,000 OP in prizes. Extended submission deadline Jan 8th at 23:00 UTC.
+My contribution to the [We Love the Art](https://welovetheart.optimism.io/) contest in the category generative art. An on-chain art contest with 1,200,000 OP in prizes. Extended submission deadline Jan 8th at 23:00 UTC.
 
 ## Description:
 
@@ -24,7 +24,7 @@ In addition to all other protocols displayed on the gradient from light gray to 
 
 ## About Me:
 
-In my real life, I am a biostatistician with a deep passion for data visualization. Thus, it was only natural to combine my skills with the art of graphical representation. I love generative art, and I consider data visualization, especially artistically crafted data visualization, to be a powerful means of not only creating art but also conveying complex information in a beautiful and simple way. With my artistic portrayal of data, I aim to unite joy in aesthetics and information.
+In my real life, I am a biostatistician with a deep passion for data visualization. Thus, it was only natural to combine my skills with the art of graphical representation. I love generative art, and I consider data visualization, especially artistically crafted data visualization, to be a powerful means of not only creating art but also conveying complex information in a beautiful and simple way. With my artistic portrayal of data, I aim to unite aesthetics and information.
 
 ## Some last words:
 
