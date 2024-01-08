@@ -4,7 +4,7 @@ My contribution to the [We Love the Art](https://welovetheart.optimism.io/) cont
 
 ![Local Image](res/OP_WLTA.png)
 
-The NFT was minted on 08 Jan 2024 on [manifold.xyz](https://gallery.manifold.xyz/optimism/0xe8dfb153f4bca17811a9e5993a69f41bcd7c7be7/1).
+The NFT was minted on 08 Jan 2024 on [manifold.xyz](https://gallery.manifold.xyz/optimism/0xe8dfb153f4bca17811a9e5993a69f41bcd7c7be7/1) by nosealsmoneyback.eth.
 
 ## Description:
 
