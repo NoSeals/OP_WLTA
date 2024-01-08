@@ -2,6 +2,8 @@
 
 My contribution to the [We Love the Art](https://welovetheart.optimism.io/) contest in the category generative art. An on-chain art contest with 1,200,000 OP in prizes. Extended submission deadline Jan 8th at 23:00 UTC.
 
+![Local Image](res/OP_WLTA.png)
+
 ## Description:
 
 Embark on a visual journey through the evolution of Optimism Superchain's governance with this submission to the We Love the Art contest. Witness the rise and significance of the OP token in the Top 100 protocols of the crypto universe, beautifully depicted through a data-driven artistic creation.
