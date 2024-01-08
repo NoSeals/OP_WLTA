@@ -339,7 +339,7 @@ df_filtered <- df_long %>%
 p_area <- ggplot(df_filtered, aes(Date, Rank, fill = ConsecutiveWeeksCap)) +
   geom_tile(color= "black",linewidth=0.1) + 
   scale_fill_gradient(name = "Consecutive Weeks",
-                      low="#DFDFDF", high = "#111111",
+                      low="#C0C0C0", high = "#111111",
                       trans = "identity") +
   scale_y_reverse() +
   facet_grid(. ~ year, scales = "free_x") +
@@ -350,7 +350,7 @@ p_area <- ggplot(df_filtered, aes(Date, Rank, fill = ConsecutiveWeeksCap)) +
         axis.title.y = element_blank(),
         axis.title.x = element_blank(),
         plot.background = element_rect(fill="black"),
-        strip.text = element_text(size = 42, colour = "#DFDFDF", margin = margin(b = -3)),
+        strip.text = element_text(size = 42, colour = "#D6D6D6", margin = margin(b = -3)),
         axis.ticks = element_blank(),
         axis.text = element_blank(),
         legend.text = element_blank(),
@@ -369,9 +369,9 @@ p_area <- p_area +
 
 p_area + 
   #add subtitle and caption
-  labs(title = "<span style = 'color: #FF0320;'>Optimism</span><span style = 'color: #DFDFDF;'> Superchain: Governance On The Rise</span><br>",
-       caption = "<span style = 'color: #DFDFDF;'>The visualization depicts the continual presence of each protocol token in the cryptocurrency's Top 100 rankings, where the intensity of color signifies the duration—stronger hues indicating longer stays. The systematically collected</span><br>
-                <span style = 'color: #DFDFDF;'>data, gathered every Sunday since the inception of market cap tracking, reveals temporal patterns. The </span><span style = 'color: #FF0320;'>OP token</span><span style = 'color: #DFDFDF;'> debuted in the Top 100 on August 7, 2022, and has demonstrated a consistent upward trajectory in rank since.</span>")+
+  labs(title = "<span style = 'color: #FF0320;'>Optimism</span><span style = 'color: #D6D6D6;'> Superchain: Governance On The Rise</span><br>",
+       caption = "<span style = 'color: #D6D6D6;'>The visualization depicts the continual presence of each protocol token in the cryptocurrency's Top 100 rankings, where the intensity of color signifies the duration—stronger hues indicating longer stays. The systematically collected</span><br>
+                <span style = 'color: #D6D6D6;'>data, gathered every Sunday since the inception of market cap tracking, reveals temporal patterns. The </span><span style = 'color: #FF0320;'>OP token</span><span style = 'color: #D6D6D6;'> debuted in the Top 100 on August 7, 2022, and has demonstrated a consistent upward trajectory in rank since.</span>")+
   #add theming for title, subtitle, caption
   theme(plot.caption = element_markdown(size = 33.8, hjust = 0, lineheight = 1.3, family="Oswald Light"),
         plot.title = element_markdown(size = 60, hjust = 0, family="Oswald Light", margin = margin(b = -15))) -> p_fin 
